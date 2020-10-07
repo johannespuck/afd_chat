@@ -14,5 +14,5 @@ Original data: https://linksunten.indymedia.org/de/system/files/data/2017/06/309
 
 Note: Indymedia linksunten was banned by the German Federal Minister of the Interior on the 25th August 2017. The website remains as an archive.
 
-The data file here is a revised version of the original data for easier accessibility.
+The data file here is a cleaned up version of the original data for easier accessibility.
 
