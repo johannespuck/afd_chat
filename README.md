@@ -1,6 +1,6 @@
 # AFD WhatsApp Chat Leak - Text Analysis
 
-A little playground to try out some text mining techniques.
+A little playground to try out some text mining techniques using R.
 
 # Background
 
