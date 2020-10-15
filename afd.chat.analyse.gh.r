@@ -16,7 +16,7 @@ help.time.1 <- proc.time()
 # working directiory
 # --------------------------------------
 
-wd<-"C:/Users/Jo/Dropbox/Textanalyse/afd_chat"
+wd<-"xxx"
 
 # --------------------------------------
 # Load package(s)
