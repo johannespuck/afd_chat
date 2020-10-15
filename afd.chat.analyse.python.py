@@ -8,7 +8,7 @@ Created on Mon Sep 16 09:59:00 2019
 import pandas as pd
 
 
-filepath="C:/Users/Jo/Dropbox/Textanalyse/afd_chat/"
+filepath="xxx"
 
 afd_chat=pd.read_csv(filepath + "afd.chat.protocol.v2.csv",sep=";")
 afd_chat.text_plain.head
